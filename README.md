@@ -17,7 +17,7 @@ To use SDK in your existing developing environment, install it from Packagist
 ```
 composer require duosecurity/duo_universal_php
 ```
-Once it's installed, see our developer documentation at https://duo.com/docs/duoweb and `sample/index.php` in this repo for guidance on integrating Duo 2FA into your web application.
+Once it's installed, see our developer documentation at https://duo.com/docs/duoweb and `example/index.php` in this repo for guidance on integrating Duo 2FA into your web application.
 
 
 ## Contribute
